@@ -1,0 +1,4 @@
+name: Parry
+version: 1.0
+main: io.github.rephrasing.parry.Parry
+api-version: 1.8.8
